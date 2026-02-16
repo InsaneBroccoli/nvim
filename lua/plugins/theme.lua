@@ -1,0 +1,1 @@
+/home/dario/.config/omarchy/current/theme/neovim.lua
